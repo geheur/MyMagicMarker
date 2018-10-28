@@ -1,0 +1,1 @@
+Adds nameplate scanning in addition to mouseover scanning and raid/party member target scanning. Also re-marks marked targets when one is killed, such that the earliest spawned living target will always have the first mark. This is not necessarily better that the static marking used previously.
